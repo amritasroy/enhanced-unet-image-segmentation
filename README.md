@@ -31,9 +31,6 @@ We designed an **Enhanced U-Net** with:
 
 Our model was trained for 75 epochs on the CamVid dataset using **Adam optimizer + learning rate scheduling**.
 
-| Input Image | Ground Truth | Predicted Mask |
-| ----------- | ------------ | -------------- |
-
 <p align="center">
   <img src="results/test_images.png" alt="Enhanced U-Net Architecture" width="600"/>
 </p>
@@ -47,17 +44,18 @@ Our model was trained for 75 epochs on the CamVid dataset using **Adam optimizer
 
 ### 📈 Training Curves
 
-_(Optional: if you save these plots in `results/`)_
-
 - IoU & mIoU growth
+
 <p align="center">
   <img src="results/iou.png" alt="IoU & mIoU of Training vs Validation data " width="600"/>
 </p>
+
 - Accuracy vs. Loss
 
 <p align="center">
   <img src="results/acc.png" alt="Accuracy vs. Loss of Training vs Validation data " width="600"/>
 </p>
+
 - Dice coefficient trend
 
 <p align="center">
