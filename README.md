@@ -22,7 +22,7 @@ We designed an **Enhanced U-Net** with:
 - **Batch normalization** → faster convergence.
 
 <p align="center">
-  <img src="results/unet_architecture.png" alt="Enhanced U-Net Architecture" width="600"/>
+  <img src="diagrams/architechturediagram.png" alt="Enhanced U-Net Architecture" width="600"/>
 </p>
 
 ---
@@ -56,12 +56,12 @@ _(Optional: if you save these plots in `results/`)_
 - Accuracy vs. Loss
 
 <p align="center">
-  <img src="results/iou.png" alt="Accuracy vs. Loss of Training vs Validation data " width="600"/>
+  <img src="results/acc.png" alt="Accuracy vs. Loss of Training vs Validation data " width="600"/>
 </p>
 - Dice coefficient trend
 
 <p align="center">
-  <img src="results/iou.png" alt="Dice coefficient of Training vs Validation data " width="600"/>
+  <img src="results/dice_coff.png" alt="Dice coefficient of Training vs Validation data " width="600"/>
 </p>
 
 ---
