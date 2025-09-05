@@ -110,3 +110,7 @@ unet/
 - Extend to **multi-modal inputs** (RGB + thermal).
 
 ---
+
+## 📜 License
+
+MIT --- see [LICENSE](./LICENSE)
