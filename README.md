@@ -110,6 +110,12 @@ unet/
 - Extend to **multi-modal inputs** (RGB + thermal).
 
 ---
+## ✍️ Author
+
+- Amrita Sinha Roy
+
+If you use this work, please cite the project/report accordingly.
+
 
 ## 📜 License
 
